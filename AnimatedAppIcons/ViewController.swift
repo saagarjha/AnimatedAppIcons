@@ -11,8 +11,8 @@ class ViewController: UIViewController {
 
     // An `IconAnimator` that runs at 30fps on the main thread
     let iconAnimator = IconAnimator(
-        numberOfFrames: 30,
-        numberOfLoops: 5,
+        numberOfFrames: 6572,
+        numberOfLoops: 1,
         targetFramesPerSecond: 30,
         shouldRunOnMainThread: true
     )
